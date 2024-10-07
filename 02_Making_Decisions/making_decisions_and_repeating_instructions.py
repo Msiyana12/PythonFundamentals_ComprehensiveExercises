@@ -15,7 +15,9 @@ def all_numbers():
     num1 = int(input())
     num2 = int(input())
 
-    #enter your code here
+   If user input is >4
+?????????????
+    
 
 
 def dog_years():
@@ -32,7 +34,7 @@ def dog_years():
 
     h_age = int(input("Input a dog's age in human years: \n"))
 
-    #enter your code here
+ h_age = int(input(15):)
 
 
 
