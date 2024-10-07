@@ -6,7 +6,8 @@ def boolean():
     """
     # enter your code here
     staying_alive = None
-
+    staying_alive = True
+        print(staying_alive)
 
 def integer():
     """
@@ -18,7 +19,8 @@ def integer():
     num1 = int(input("Enter first number\n"))
     num2 = int(input("Enter second number\n"))
 
-    # enter your code here
+    user_numbers = int(input("multiply first and second user_numbers)
+                             print(num1*num2)
 
 
 def string():
@@ -28,7 +30,8 @@ def string():
     Assign a name to the variable below and print it.
     """
 
-    # enter your code here
+    your_name = amora
+        print(your_name)
 
     your_name = None
 
@@ -42,7 +45,8 @@ def convert_to_float():
 
     int_num = 60
 
-    #enter your code here
+    int_num = 60/3.2
+        print(result)
 
 
 def all_data_types():
@@ -61,7 +65,7 @@ def all_data_types():
     int_year = 2023
     float_cost = 0.00
 
-    #enter your code here
+    
 
 
 if __name__ == "__main__":
